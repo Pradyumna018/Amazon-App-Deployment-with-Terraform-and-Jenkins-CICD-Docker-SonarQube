@@ -163,4 +163,6 @@ terraform destroy --auto-approve
 ```
 In this age of digital transformation, safeguarding your applications is no longer an option but a necessity. The synergy of Terraform, Jenkins, SonarQube, and Trivy empowers us to not only deploy our applications with speed and efficiency but also to do so with an unwavering focus on security. We hope this guide has been a valuable resource in your journey towards embracing DevSecOps principles and securing your Amazon app deployments on AWS. Remember, the world of technology is ever-evolving, and so are the threats that come with it. Stay vigilant, stay informed, and continue to adapt your DevSecOps practices to stay ahead in the realm of secure and efficient application development.
 
+Thank You ❤️
+
 
